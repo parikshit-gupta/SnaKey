@@ -1,6 +1,6 @@
 # SnaKey
 
-<img width="750" height="582" alt="image" src="https://github.com/user-attachments/assets/b3943b17-f67c-4acb-8746-9003539ba35d" />
+<img width="1000" height="582" alt="image" src="https://github.com/user-attachments/assets/b3943b17-f67c-4acb-8746-9003539ba35d" />
 
 A Deep Q-Network based RL agent. Inspired from Google DeepMind's 2015 paper on DQNs with experience replay. Engineered a custom training environment from scratch enabling the agent to learn complex behaviors over time through strategic exploration and reward optimization. DQNs are a demonstration of the amalgamation of DL and RL. 
 
